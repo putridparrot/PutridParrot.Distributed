@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../PutridParrot.Distributed.Demo/PutridParrot.Distributed.Demo.csproj" />
+  <Project Path="../PutridParrot.Distributed.Postgresql/PutridParrot.Distributed.Postgresql.csproj" />
+  <Project Path="../PutridParrot.Distributed.Redis/PutridParrot.Distributed.Redis.csproj" />
+  <Project Path="../PutridParrot.Distributed.SqlServer/PutridParrot.Distributed.SqlServer.csproj" />
+  <Project Path="PutridParrot.Distributed/PutridParrot.Distributed.csproj" />
+</Solution>
